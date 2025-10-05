@@ -7,3 +7,4 @@ export default function Home() {
     </main>
   );
 }
+// Just for pushing the code to the repository
